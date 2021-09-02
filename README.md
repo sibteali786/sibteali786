@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
-- 🔭 I’m currently working on [**Shoe-Store**](shoe_store_reactapp_sibteali.surge.sh)
+- 🔭 I’m currently working on [Shoe-Store](shoe_store_reactapp_sibteali.surge.sh)
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js and Mongodb**
 
