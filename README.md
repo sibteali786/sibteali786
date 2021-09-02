@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
-- 🔭 I’m currently working on <p> <a href="shoe_store_reactapp_sibteali.surge.sh" target="blank"> Shoe Store </a> </p>
+- 🔭 I’m currently working on **Shoe-Store**
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js and Mongodb**
 
@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibteali786&show_icons=true&locale=en&layout=compact" alt="sibteali786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibteali786&show_icons=true&theme=dark&text_color=f7f7f7&bg_color=aa9d9d&locale=en" alt="sibteali786" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibteali786&show_icons=true&theme=dracula&title_color=f5f5f5&text_color=f5f5f5&bg_color=2011e8&hide_border=true&locale=en" alt="sibteali786" /></p>
