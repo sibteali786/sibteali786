@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js and Mongodb**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/sibteali786)
+- 👨‍💻 All of my projects are available at [https://github.com/sibteali786](https://github.com/sibteali786)
 
 - 📫 How to reach me **ssibteali.ce41ceme@ce.ceme.edu.pk**
 
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibteali786&show_icons=true&locale=en&layout=compact" alt="sibteali786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibteali786&show_icons=true&theme=dracula&title_color=f5f5f5&text_color=f5f5f5&bg_color=2011e8&hide_border=true&locale=en" alt="sibteali786" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibteali786&theme=dark" alt="sibteali786" /></p>
