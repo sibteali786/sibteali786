@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Sibteali Baqar</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibteali786&label=Profile%20views&color=0e75b6&style=flat" alt="sibteali786" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
-- 🔭 I’m currently working on **Shoe-Store**
-
+- 🔭 I’m currently working on <a href="shoe_store_reactapp_sibteali.surge.sh"> Shoe Store </a>
 - 🌱 I’m currently learning **React.js, Node.js, Express.js and Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sibteali786](https://github.com/sibteali786)
@@ -27,6 +26,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibteali786&show_icons=true&locale=en&layout=compact" alt="sibteali786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibteali786&show_icons=true&theme=dracula&title_color=f5f5f5&text_color=f5f5f5&bg_color=2011e8&hide_border=true&locale=en" alt="sibteali786" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibteali786&bg_color=30,e96443,904e95&title_color=000&text_color=000" alt="sibteali786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibteali786&theme=dark" alt="sibteali786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sibteali786&repo=shoe-store-app-router-ali" alt="sibteali786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sibteali786&repo=Covid19_Tracker_App_By_BootCamp" alt="sibteali786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sibteali786&repo=expense-tracker-react_ali" alt="sibteali786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sibteali786&repo=Python-Page-Rank" alt="sibteali786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sibteali786&repo=material-ui-tutorial-react" alt="sibteali786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sibteali786&repo=devChallenges_responsive_design" alt="sibteali786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sibteali786&repo=react-chartJs-demo" alt="sibteali786" /></p>
