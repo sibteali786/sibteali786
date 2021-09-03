@@ -29,10 +29,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api?username=sibteali786&bg_color=30,e96443,904e95&title_color=000&text_color=000" alt="sibteali786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibteali786&theme=dark" alt="sibteali786" /></p>
-<p><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=shoe-store-app-router-ali" alt="sibteali786" /></p>
-<p><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=Covid19_Tracker_App_By_BootCamp" alt="sibteali786" /></p>
-<p><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=expense-tracker-react_ali" alt="sibteali786" /></p>
-<p><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=Python-Page-Rank" alt="sibteali786" /></p>
-<p><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=material-ui-tutorial-react" alt="sibteali786" /></p>
-<p><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=devChallenges_responsive_design" alt="sibteali786" /></p>
-<p><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=react-chartJs-demo" alt="sibteali786" /></p>
+<p><a href="https://github.com/sibteali786/shoe-store-app-router-ali" ><img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=shoe-store-app-router-ali" alt="sibteali786" /> </a></p>
+<p>
+  <a href="https://github.com/sibteali786/Covid19_Tracker_App_By_BootCamp">
+  <img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=Covid19_Tracker_App_By_BootCamp" alt="sibteali786" />
+  </a>
+</p>
+<p><a href="https://github.com/sibteali786/expense-tracker-react_ali">
+  <img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=expense-tracker-react_ali" alt="sibteali786" />
+  </a>
+  </p>
+<p>
+  <a href="https://github.com/sibteali786/Python-Page-Rank">
+  <img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=Python-Page-Rank" alt="sibteali786" />
+  </a>
+    </p>
+<p>
+  <a hrf="https://github.com/sibteali786/material-ui-tutorial-react">  
+  <img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=material-ui-tutorial-react" alt="sibteali786" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/sibteali786/devChallenges_responsive_design">
+  <img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=devChallenges_responsive_design" alt="sibteali786" />
+  </a>
+    </p>
+<p>
+  <a href="https://github.com/sibteali786/react-chartJs-demo" >
+  <img align="center" src="https://github-readme-stats-sibteali786.vercel.app/api/pin/?username=sibteali786&repo=react-chartJs-demo" alt="sibteali786" />
+  </a>
+    </p>
