@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/sibteali786/think-piece"> FireBase Blogging App </a>
+- 🔭 I’m currently working on <a href="https://github.com/sibteali786/Portfolio_Animated"> Portfolio </a>
 - 🌱 I’m currently learning **React.js, Node.js, Express.js and Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sibteali786](https://github.com/sibteali786)
