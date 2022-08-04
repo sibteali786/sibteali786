@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/sibteali786/Portfolio_Animated"> Portfolio </a> and <a href="https://csb-w6j9es.netlify.app/" target="blank"> Expense Tracker Typescript </a> and learning <b>Progressive Web Apps</b> (PWAs)
+- 🔭 I’m currently working on <a href="https://github.com/sibteali786/myapp"> Full Stack NextJs Prisma App </a> and <a href="https://github.com/hx2labs/alphatalk-ui" target="blank"> Alphatalk UI </a> and learning <b> GraphQL Frontend Client </b>
 - 🌱 I’m currently learning **React.js, Node.js, Express.js and Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sibteali786](https://github.com/sibteali786)
