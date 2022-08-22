@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Supervised Machine Learning ?](https://medium.com/@sibteali786/supervised-machine-learning-8b13417d5c76?source=rss-b07c6b861c5d------2)
 - [What is Artificial Intelligence ?](https://medium.com/@sibteali786/what-is-artificial-intelligence-4518b827b771?source=rss-b07c6b861c5d------2)
 - [Learning in Public](https://medium.com/@sibteali786/learning-in-public-48b415f7f83c?source=rss-b07c6b861c5d------2)
 - [How to learn Something without forgetting it](https://medium.com/@sibteali786/how-to-learn-something-without-forgetting-it-f23343814aef?source=rss-b07c6b861c5d------2)
