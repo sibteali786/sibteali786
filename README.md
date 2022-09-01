@@ -50,7 +50,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibteali786&show_icons=true&locale=en&layout=compact" alt="sibteali786" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sibteali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibteali786)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibteali786&" alt="sibteali786" /></p>
 
