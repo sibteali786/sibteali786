@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Full Stack NextJs Prisma App](https://github.com/sibteali786/myapp)
 
-- 🌱 I’m currently learning **GraphQL, Prisma, PostGres**
+- 🌱 I’m currently learning **Laravel, Core JavaScript, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
