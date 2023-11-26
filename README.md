@@ -7,23 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack NextJs Prisma App](https://github.com/sibteali786/myapp)
+- 🔭 I’m currently working on [NodeJS API Design with PostGreSQL, Prisma, Graphql](https://github.com/sibteali786/NodeJS_API-Design)
 
-- 🌱 I’m currently learning **Laravel, Core JavaScript, Machine Learning**
+- 🌱 I’m currently learning **JavaScript, React Patterns**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://sibtealibaqar.me/](https://sibtealibaqar.me/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sibtealibqar.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sibteali786](https://medium.com/@sibteali786)
 
 - 💬 Ask me about **ReactJS, NodeJs, Python**
 
 - 📫 How to reach me **sibteali786@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/syed-sibteali-baqar-03167a17a/overlay/1635492244314/single-media-viewer/](https://www.linkedin.com/in/syed-sibteali-baqar-03167a17a/overlay/1635492244314/single-media-viewer/)
-
-- ⚡ Fun fact **I have spent more time writing Python then Javascript but i am still a better JS developer :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
