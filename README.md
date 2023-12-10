@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Hard Parts — Intro](https://medium.com/@sibteali786/javascript-hard-parts-intro-95bd670c1a4e?source=rss-b07c6b861c5d------2)
 - [How to decide which projects we can do with Machine Learning? &lpar; Part II&rpar;](https://medium.com/@sibteali786/how-to-decide-which-projects-we-can-do-with-machine-learning-part-ii-bd861d6cf2a1?source=rss-b07c6b861c5d------2)
 - [How to decide which projects we can do with Machine Learning?](https://medium.com/@sibteali786/how-to-decide-which-projects-we-can-do-with-machine-learning-fa74ec7c9003?source=rss-b07c6b861c5d------2)
 - [Most typical terms used in Artificial Intelligence](https://medium.com/@sibteali786/most-typical-terms-used-in-artificial-intelligence-106271ce635d?source=rss-b07c6b861c5d------2)
 - [Is Data really what matters the most in AI systems?](https://medium.com/@sibteali786/is-data-really-what-matters-the-most-in-ai-systems-9ffa6c754f68?source=rss-b07c6b861c5d------2)
-- [Data Acquisition for AI systems](https://medium.com/@sibteali786/data-acquisition-for-ai-systems-2efefa23fa37?source=rss-b07c6b861c5d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
