@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
-- 🔭 I’m currently working on [NodeJS API Design with PostGreSQL, Prisma, Graphql](https://github.com/sibteali786/NodeJS_API-Design)
+- 🔭 I’m currently working on [Storybook](https://github.com/sibteali786/Storybook-Anthology)
 
 - 🌱 I’m currently learning **JavaScript, React Patterns**
 
