@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing Component States with Storybook, tRPC, and Mock Service Worker in React Vite](https://medium.com/@sibteali786/testing-component-states-with-storybook-trpc-and-mock-service-worker-in-react-vite-19fd0fc0ab4a?source=rss-b07c6b861c5d------2)
 - [Being Competetive aka Being a good Rat in the Rat Race and why it even matters?](https://medium.com/@sibteali786/being-competetive-aka-being-a-good-rat-in-the-rat-race-and-why-it-even-matters-4db83d49fee2?source=rss-b07c6b861c5d------2)
 - [JavaScript Hard Parts: Callback and Higher Order Functions](https://medium.com/@sibteali786/javascript-hard-parts-callback-and-higher-order-functions-4df28c3f3b77?source=rss-b07c6b861c5d------2)
 - [JavaScript Hard Parts — Call Stack](https://medium.com/@sibteali786/javascript-hard-parts-call-stack-aeac1b3446ee?source=rss-b07c6b861c5d------2)
 - [JavaScript Hard Parts — JavaScript Principles](https://medium.com/@sibteali786/javascript-hard-parts-javascript-principles-4f703f18ae44?source=rss-b07c6b861c5d------2)
-- [JavaScript Hard Parts — Intro](https://medium.com/@sibteali786/javascript-hard-parts-intro-95bd670c1a4e?source=rss-b07c6b861c5d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
