@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Go Lang](https://github.com/sibteali786/cryptomasters-go)
 
-- 🌱 I’m currently learning **JavaScript, React Patterns**
+- 🌱 I’m currently learning **Go, Generative AI, DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
