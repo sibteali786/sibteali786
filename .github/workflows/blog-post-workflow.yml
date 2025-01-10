@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
-          feed_list: "https://medium.com/feed/@YOUR_MEDIUM_USERNAME"
+          feed_list: "https://medium.com/feed/@sibteali786"
           max_post_count: 1
           template: "[$title]($url)"
