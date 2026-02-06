@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Sibteali Baqar</h1>
 <h3 align="center">A Gamer turned into a Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibteali786&label=Profile%20views&color=0e75b6&style=flat" alt="sibteali786" /> </p>
+### Porfolio
+<a href="https://sibteali-portfolio.vercel.app/">Link</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibteali786" alt="sibteali786" /></a> </p>
+### Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibteali786&label=Profile%20views&color=0e75b6&style=flat" alt="sibteali786" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sibtealin" target="blank"><img src="https://img.shields.io/twitter/follow/sibtealin?logo=twitter&style=for-the-badge" alt="sibtealin" /></a> </p>
 
